@@ -1,7 +1,7 @@
 ﻿using Intellenum;
 using Soenneker.Quark.Enums.GlobalKeywords;
 
-namespace Soenneker.Quark.Enums.UserSelects;
+namespace Soenneker.Quark;
 
 /// <summary>
 /// Typed values for the CSS user-select property in .NET enumeration form.
