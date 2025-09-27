@@ -6,7 +6,7 @@ namespace Soenneker.Quark.Enums;
 /// Typed values for the CSS user-select property in .NET enumeration form.
 /// </summary>
 [Intellenum<string>]
-public sealed partial class UserSelectKeywordKeyword
+public sealed partial class UserSelectKeyword
 {
     public static readonly UserSelectKeyword None = new("none");
     public static readonly UserSelectKeyword Auto = new("auto");
