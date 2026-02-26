@@ -1,11 +1,11 @@
-using Intellenum;
+using Soenneker.Gen.EnumValues;
 
 namespace Soenneker.Quark.Enums;
 
 /// <summary>
 /// Typed values for the CSS user-select property in .NET enumeration form.
 /// </summary>
-[Intellenum<string>]
+[EnumValue<string>]
 public sealed partial class UserSelectKeyword
 {
     public static readonly UserSelectKeyword None = new("none");
