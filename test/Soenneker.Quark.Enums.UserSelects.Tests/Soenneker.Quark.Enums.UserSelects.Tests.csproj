@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Soenneker.Quark.Enums.UserSelects.csproj" />
+        <ProjectReference Include="..\..\src\Soenneker.Quark.Enums.UserSelects\Soenneker.Quark.Enums.UserSelects.csproj" />
     </ItemGroup>
 
     <ItemGroup>
