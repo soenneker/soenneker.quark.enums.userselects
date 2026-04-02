@@ -1,6 +1,6 @@
 using Soenneker.Gen.EnumValues;
 
-namespace Soenneker.Quark.Enums;
+namespace Soenneker.Quark;
 
 /// <summary>
 /// Typed values for the CSS user-select property in .NET enumeration form.
